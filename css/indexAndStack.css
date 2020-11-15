@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    position: sticky;
+    top: 0;
+    background: #000;
+    padding: 5px 0 5px 20px;
+    color: #fff;
+}
+
+p {
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
